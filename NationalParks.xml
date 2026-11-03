@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+
+	<NationalPark Rating="4.8">
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Phone>760-367-5554</Phone>
+		<Address NearestAirport="Palm Springs">
+			<Number>74485</Number>
+			<Street>National Park Drive</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- No Rating -->
+	<NationalPark>
+		<Name>Olympic</Name>
+		<Phone>360-565-3130</Phone>
+		<Address NearestAirport="Seattle">
+			<Number>600</Number>
+			<Street>East Park Avenue</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- No Rating -->
+	<NationalPark>
+		<Name>Petrified Forest</Name>
+		<Phone>928-524-6228</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>2217</Number>
+			<Street>PO Box</Street>
+			<City>Petrified Forest</City>
+			<State>AZ</State>
+			<Zip>86028</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Has Rating -->
+	<NationalPark Rating="4.9">
+		<Name>Bryce Canyon</Name>
+		<Phone>435-834-5322</Phone>
+		<Address NearestAirport="Cedar City">
+			<Number>640201</Number>
+			<Street>PO Box</Street>
+			<City>Bryce</City>
+			<State>UT</State>
+			<Zip>84764</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Has Rating -->
+	<NationalPark Rating="4.9">
+		<Name>Mount Rainier</Name>
+		<Phone>360-569-2211</Phone>
+		<Address NearestAirport="Seattle">
+			<Number>55210</Number>
+			<Street>238th Avenue East</Street>
+			<City>Ashford</City>
+			<State>WA</State>
+			<Zip>98304</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Has Rating -->
+	<NationalPark Rating="4.6">
+		<Name>Everglades</Name>
+		<Phone>305-242-7700</Phone>
+		<Address NearestAirport="Miami">
+			<Number>40001</Number>
+			<Street>State Road 9336</Street>
+			<City>Homestead</City>
+			<State>FL</State>
+			<Zip>33034</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- No Rating -->
+	<NationalPark>
+		<Name>Death Valley</Name>
+		<Phone>760-786-3200</Phone>
+		<Address NearestAirport="Las Vegas">
+			<Number>579</Number>
+			<Street>PO Box</Street>
+			<City>Death Valley</City>
+			<State>CA</State>
+			<Zip>92328</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- Has Rating -->
+	<NationalPark Rating="4.8">
+		<Name>Sequoia</Name>
+		<Phone>559-565-3341</Phone>
+		<Address NearestAirport="Fresno">
+			<Number>47050</Number>
+			<Street>Generals Highway</Street>
+			<City>Three Rivers</City>
+			<State>CA</State>
+			<Zip>93271</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 2 phones, no Rating -->
+	<NationalPark>
+		<Name>Shenandoah</Name>
+		<Phone>540-999-3500</Phone>
+		<Phone>800-732-0911</Phone>
+		<Address NearestAirport="Washington Dulles">
+			<Number>3655</Number>
+			<Street>US Highway 211 East</Street>
+			<City>Luray</City>
+			<State>VA</State>
+			<Zip>22835</Zip>
+		</Address>
+	</NationalPark>
+
+	<!-- 2 phones, no Rating -->
+	<NationalPark>
+		<Name>Mammoth Cave</Name>
+		<Phone>270-758-2180</Phone>
+		<Phone>877-444-6777</Phone>
+		<Address NearestAirport="Nashville">
+			<Number>1</Number>
+			<Street>Mammoth Cave Parkway</Street>
+			<City>Mammoth Cave</City>
+			<State>KY</State>
+			<Zip>42259</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
